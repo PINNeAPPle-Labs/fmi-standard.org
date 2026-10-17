@@ -3,6 +3,7 @@
         "name": "PINNeAPPle",
         "license": "osi",
         "url": "https://github.com/PINNeAPPle-Labs/PINNeAPPle",
+        "logo": "PINNeAPPle.png",
         "vendor": "PINNeAPPle Labs",
         "vendorURL": "https://github.com/PINNeAPPle-Labs",
         "examplesURL": "https://github.com/PINNeAPPle-Labs/PINNeAPPle/blob/main/docs/guides/fmi_compatibility.md",
